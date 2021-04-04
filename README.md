@@ -18,6 +18,7 @@
 - [Sobre](#sobre)
 - [Aulas](#aulas)
 - [Como Contribuir](#como-contribuir)
+- [Instalações](#instalacoes)
 
 <a id="sobre"></a>
 ## :bookmark: Sobre
@@ -33,8 +34,22 @@ Aula ministrada pelo Eduardo Mendes no seu [canal](https://www.youtube.com/watch
 - Aula 3: [Minha primeira automação](https://www.youtube.com/watch?v=Pax0jiAcTWs)
 - Aula 4: [Navegação e atributos](https://www.youtube.com/watch?v=H6D8EFSGml0)
 
-<a id="como-contribuir"></a>
 
+<a id="instalacoes"></a>
+## :fire: Instalações
+- Instale o [Chocolatey](https://chocolatey.org/install) no [PowerShell](https://docs.microsoft.com/pt-br/powershell/)
+- Instale o Selenium via Chocolatey `choco install selenium`
+- Instale o Selenium All Drivers 4.0 via Chocolatey `choco install selenium-all-drivers`
+- Instale o Google Chrome via Chocolatey `choco install googlechrome`
+- Instale o Python via Chocolatey `choco install python`
+- Instale uma IDE 
+  - Atom via Chocolatey `choco install atom`
+  - VSCode via Chocolatey `choco install vscode`
+
+
+
+
+<a id="como-contribuir"></a>
 ## :recycle: Como contribuir
 
 - Efetue um clone do repositrio 
