@@ -25,7 +25,7 @@ Aula ministrada pelo Eduardo Mendes no seu [canal](https://www.youtube.com/watch
 
 
 <a id="aulas"></a>
-## :bookmark: Aulas
+## :pencil: Aulas
 - Aula 1 - Configurando o seu ambiente
   - [Configuração no Linux](https://www.youtube.com/watch?v=XUeu4ZzQNUI)
   - [Configuração no Windows](https://youtu.be/XUeu4ZzQNUI)
