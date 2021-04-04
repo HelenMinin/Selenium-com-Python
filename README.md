@@ -17,6 +17,7 @@
 # Índice
 - [Sobre](#sobre)
 - [Aulas](#aulas)
+- [Como Contribuir](#como-contribuir)
 
 <a id="sobre"></a>
 ## :bookmark: Sobre
@@ -32,6 +33,15 @@ Aula ministrada pelo Eduardo Mendes no seu [canal](https://www.youtube.com/watch
 - Aula 3: [Minha primeira automação](https://www.youtube.com/watch?v=Pax0jiAcTWs)
 - Aula 4: [Navegação e atributos](https://www.youtube.com/watch?v=H6D8EFSGml0)
 
+<a id="como-contribuir"></a>
+
+## :recycle: Como contribuir
+
+- Efetue um clone do repositrio 
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+- No GitHub, Abra um pull request para a branch `main` e aguarde aprovação
 
 ## :memo: License
 
